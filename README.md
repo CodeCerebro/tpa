@@ -1,0 +1,1 @@
+# This is an ongoing project using historical stock data from tdameritrade to do quantitative analysis and machine learning to predict the movement of an asset.
